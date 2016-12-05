@@ -89,7 +89,7 @@ var translations_en = {
 		"siminfo": "SIM Information",
 		"companyinfo": "Company Address",
 		"contactnumber": "Contact Number",
-		"tos": "Term Of Service",
+		"tos": "Terms Of Service",
 		"newticketsupport": "Open New Ticket",
 		"ticketcreated": "Ticket Created",
 		"ticketcreatedid": "Your ticket has been created, Ticket ID",
